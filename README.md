@@ -1,4 +1,4 @@
-__________isPalindrome_____________
+<div>__________isPalindrome_____________
 isPalindrome Test 1 -> ("hello_SWEEFT!") : false
 isPalindrome Test 2 -> ("olo1olo") : true
 isPalindrome Test 3 -> ("a") : true
@@ -17,3 +17,4 @@ __________countVariants_____________
 countVariants Test 1 -> "(5)" : 8
 countVariants Test 2 -> "(20)" : 10946
 ____________________________________
+</div>

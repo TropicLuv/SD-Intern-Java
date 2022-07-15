@@ -76,30 +76,30 @@ public class Exercises_Sweeft {
 
 
 public static void main(String[] args) {
-        var a = new Exercises_Sweeft();
-    System.out.println("__________isPalindrome_____________");
-    System.out.println("isPalindrome Test 1 -> (\"hello_SWEEFT!\") : " + a.isPalindrome("hello_SWEEFT!"));
-    System.out.println("isPalindrome Test 2 -> (\"olo1olo\") : " + a.isPalindrome("olo1olo"));
-    System.out.println("isPalindrome Test 3 -> (\"a\") : " + a.isPalindrome("a"));
-    System.out.println("isPalindrome Test 4 -> (\"\") : " + a.isPalindrome(""));
+//         var a = new Exercises_Sweeft();
+//     System.out.println("__________isPalindrome_____________");
+//     System.out.println("isPalindrome Test 1 -> (\"hello_SWEEFT!\") : " + a.isPalindrome("hello_SWEEFT!"));
+//     System.out.println("isPalindrome Test 2 -> (\"olo1olo\") : " + a.isPalindrome("olo1olo"));
+//     System.out.println("isPalindrome Test 3 -> (\"a\") : " + a.isPalindrome("a"));
+//     System.out.println("isPalindrome Test 4 -> (\"\") : " + a.isPalindrome(""));
 
-    System.out.println("__________minSplit_____________");
-    System.out.println("minSplit Test 1 -> (99) : " + a.minSplit(99));
-    System.out.println("minSplit Test 2 -> (100) : " + a.minSplit(100));
+//     System.out.println("__________minSplit_____________");
+//     System.out.println("minSplit Test 1 -> (99) : " + a.minSplit(99));
+//     System.out.println("minSplit Test 2 -> (100) : " + a.minSplit(100));
 
-    System.out.println("__________notContains_____________");
-    System.out.println("notContains Test 1 -> ({1,2,3}) : " + a.notContains(new int [] {1,2,3}));
-    System.out.println("notContains Test 2 -> ({-1,2,3}) : " + a.notContains(new int [] {-1,2,3}));
-    System.out.println("notContains Test 3 -> ({1,2,3,4,5,6,8}) : " + a.notContains(new int [] {1,2,3,4,5,6,8}));
+//     System.out.println("__________notContains_____________");
+//     System.out.println("notContains Test 1 -> ({1,2,3}) : " + a.notContains(new int [] {1,2,3}));
+//     System.out.println("notContains Test 2 -> ({-1,2,3}) : " + a.notContains(new int [] {-1,2,3}));
+//     System.out.println("notContains Test 3 -> ({1,2,3,4,5,6,8}) : " + a.notContains(new int [] {1,2,3,4,5,6,8}));
 
-    System.out.println("__________isProperly_____________");
-    System.out.println("isProperly Test 1 -> \"()(())\" : " + a.isProperly("()(())"));
-    System.out.println("isProperly Test 2 -> \")()(\" : " + a.isProperly(")()("));
+//     System.out.println("__________isProperly_____________");
+//     System.out.println("isProperly Test 1 -> \"()(())\" : " + a.isProperly("()(())"));
+//     System.out.println("isProperly Test 2 -> \")()(\" : " + a.isProperly(")()("));
 
-    System.out.println("__________countVariants_____________");
-    System.out.println("countVariants Test 1 -> \"(5)\" : " + a.countVariants(5));
-    System.out.println("countVariants Test 2 -> \"(20)\" : " + a.countVariants(20));
-    System.out.println("____________________________________");
+//     System.out.println("__________countVariants_____________");
+//     System.out.println("countVariants Test 1 -> \"(5)\" : " + a.countVariants(5));
+//     System.out.println("countVariants Test 2 -> \"(20)\" : " + a.countVariants(20));
+//     System.out.println("____________________________________");
 }
 
 }
